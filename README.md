@@ -1,8 +1,10 @@
 # Self_teaching
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 A repository full of useful scripts i've developed through self teaching
 
-Split into folders according to language and then split into category (i.e. Algorithms & data structures etc) inside the language folder 
+Some are related to algorithms & learninng, some are related to personal projects.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+SEMF.py is a personal project that lets you calculate the binding energy of nuclei so that Q values for nuclear reactions can be found.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
